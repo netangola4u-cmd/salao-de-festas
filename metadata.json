@@ -1,0 +1,7 @@
+{
+  "name": "Aurum Venues - Espaço de Eventos Premium",
+  "description": "Website sofisticado e funcional para a Aurum Venues, um salão de eventos de luxo especializado em casamentos, eventos corporativos e celebrações exclusivas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
